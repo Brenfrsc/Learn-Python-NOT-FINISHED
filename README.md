@@ -10,3 +10,4 @@ You can browse the contents here!.
 
 - [1.Introduction and Basics](PYTHON.py)
 - [2.Compound Data (list, tuple, set, dict)](CompoundData.py)
+- [3.Mathematic Operators](AritmeticOperators.py)
